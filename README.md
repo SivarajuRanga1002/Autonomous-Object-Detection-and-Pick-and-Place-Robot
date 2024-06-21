@@ -1,5 +1,7 @@
 # Autonomous-Object-Detection-and-Pick-&-Place-Robot
 
+[![How to add YouTube Videos in GitHub README](https://img.youtube.com/vi/A2cw5kgYDgs/0.jpg)](https://www.youtube.com/watch?v=A2cw5kgYDgs)
+
 https://www.youtube.com/watch?v=A2cw5kgYDgs&list=PLVMTVkBf5nwJ27I7ac7mX2-FmtAKAjzNr&index=4&ab_channel=SivarajuYashaswiRanga
 
 Description:
