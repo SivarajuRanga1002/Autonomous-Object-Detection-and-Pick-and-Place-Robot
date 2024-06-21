@@ -1,6 +1,8 @@
 # Autonomous-Object-Detection-and-Pick-&-Place-Robot
 
-[![Autonomous-Object-Detection-and-Pick-&-Place-Robot](https://i.ytimg.com/vi/A2cw5kgYDgs/hqdefault.jpg)](https://www.youtube.com/watch?v=A2cw5kgYDgs)
+![Screenshot (110)](https://github.com/SivarajuRanga1002/Autonomous-Object-Detection-and-Pick-and-Place-Robot/assets/65248651/de85b285-62ff-48bd-85ec-871716b25d4d)
+
+[![Autonomous-Object-Detection-and-Pick-&-Place-Robot](https://www.youtube.com/watch?v=A2cw5kgYDgs)
 
 Description:
 Developed an autonomous object detection and pick-and-place robotic system using a 6-degree-of-freedom (6-DOF) robotic arm (MyCobot) controlled by a Raspberry Pi 4B and an ESP32 board. The system utilizes YOLOv8 for object detection and OpenCV for image processing, achieving precise and efficient sorting of colored objects.
